@@ -260,5 +260,14 @@
       "You aren't currently on the main branch. Checkout to that branch and try again!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1754040639.968765,
+    "completed_at": 1754040640.072747,
+    "comments": [
+      "You do not have 2 commits on the bug-fix branch"
+    ],
+    "status": "Incomplete"
   }
 ]
