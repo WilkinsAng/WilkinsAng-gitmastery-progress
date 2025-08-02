@@ -332,5 +332,14 @@
       "'GitAutograderRemote' object has no attribute 'is_for_repo'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1754114467.932285,
+    "completed_at": 1754114468.342839,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
   }
 ]
