@@ -323,5 +323,14 @@
       "'GitAutograderRemote' object has no attribute 'is_for_repo'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1754113302.562679,
+    "completed_at": 1754113303.073088,
+    "comments": [
+      "'GitAutograderRemote' object has no attribute 'is_for_repo'"
+    ],
+    "status": "Error"
   }
 ]
