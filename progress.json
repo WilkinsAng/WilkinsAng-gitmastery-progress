@@ -449,5 +449,14 @@
       "Remote 'alice-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-alice"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754809240.619496,
+    "completed_at": 1754809240.691244,
+    "comments": [
+      "You have not fetched Alice's changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
