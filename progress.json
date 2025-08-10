@@ -377,5 +377,14 @@
       "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1754808766.674323,
+    "completed_at": 1754808768.153922,
+    "comments": [
+      "No fork of git-mastery/gm-shapes found. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
+    ],
+    "status": "Incomplete"
   }
 ]
