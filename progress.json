@@ -476,5 +476,15 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754809349.917111,
+    "completed_at": 1754809349.986436,
+    "comments": [
+      "You should not have pulled Bob's changes to your own main branch!",
+      "Reset the exercise using 'gitmastery progress reset' to try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
